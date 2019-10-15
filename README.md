@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+Escaped Plant
 
-Author: (TODO: your name)
+Author: Xuechun Luo
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Find the white target, watch out the patrolling plant guard
 
 Screen Shot:
 
@@ -10,7 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Using up, down, left, right key to control your plant arrive the white goal. Make sure not touch the patrolling plant guard.
 
 Sources:
 
